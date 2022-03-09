@@ -1,0 +1,27 @@
+ftp
+open (IP of the FTP Site)
+Username
+Password 
+
+//Important Commands for FTP
+help
+typ
+binary
+cd
+cdup
+debug
+dir
+dele
+get
+put
+mkdir
+mddelete
+append
+rmd
+port
+syst
+size
+exec
+quit
+
+Try and Error :)
